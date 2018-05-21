@@ -1,0 +1,104 @@
+hitcount: 374234
+misscount:169675
+prefetch_success_called_num:1086
+prefetch_page_num:1086
+hitcount: 405178
+misscount:171535
+prefetch_success_called_num:1763
+prefetch_page_num:1763
+hitcount: 436779
+misscount:173436
+prefetch_success_called_num:2440
+prefetch_page_num:2440
+hitcount: 468571
+misscount:175238
+prefetch_success_called_num:3117
+prefetch_page_num:3117
+hitcount: 500073
+misscount:176994
+prefetch_success_called_num:3794
+prefetch_page_num:3794
+hitcount: 532080
+misscount:178827
+prefetch_success_called_num:4471
+prefetch_page_num:4471
+hitcount: 564087
+misscount:180576
+prefetch_success_called_num:5148
+prefetch_page_num:5148
+hitcount: 595993
+misscount:182309
+prefetch_success_called_num:5825
+prefetch_page_num:5825
+hitcount: 627965
+misscount:184056
+prefetch_success_called_num:6502
+prefetch_page_num:6502
+hitcount: 660261
+misscount:185790
+prefetch_success_called_num:7179
+prefetch_page_num:7179
+hitcount: 692481
+misscount:187530
+prefetch_success_called_num:7856
+prefetch_page_num:7856
+hitcount: 724833
+misscount:189269
+prefetch_success_called_num:8533
+prefetch_page_num:8533
+hitcount: 757170
+misscount:191030
+prefetch_success_called_num:9210
+prefetch_page_num:9210
+hitcount: 789544
+misscount:192757
+prefetch_success_called_num:9887
+prefetch_page_num:9887
+hitcount: 821738
+misscount:194475
+prefetch_success_called_num:10564
+prefetch_page_num:10564
+hitcount: 853833
+misscount:196212
+prefetch_success_called_num:11241
+prefetch_page_num:11241
+hitcount: 885866
+misscount:197925
+prefetch_success_called_num:11918
+prefetch_page_num:11918
+hitcount: 918193
+misscount:199658
+prefetch_success_called_num:12595
+prefetch_page_num:12595
+hitcount: 950375
+misscount:201389
+prefetch_success_called_num:13272
+prefetch_page_num:13272
+hitcount: 982806
+misscount:203105
+prefetch_success_called_num:13949
+prefetch_page_num:13949
+hitcount: 1015220
+misscount:204819
+prefetch_success_called_num:14626
+prefetch_page_num:14626
+hitcount: 1048900
+misscount:206677
+prefetch_success_called_num:15415
+prefetch_page_num:15415
+hitcount: 1081064
+misscount:208382
+prefetch_success_called_num:16092
+prefetch_page_num:16092
+hitcount: 1112959
+misscount:210080
+prefetch_success_called_num:16769
+prefetch_page_num:16769
+hitcount: 1145036
+misscount:211804
+prefetch_success_called_num:17446
+prefetch_page_num:17446
+hitcount: 1176864
+misscount:213503
+prefetch_success_called_num:18123
+prefetch_page_num:18123

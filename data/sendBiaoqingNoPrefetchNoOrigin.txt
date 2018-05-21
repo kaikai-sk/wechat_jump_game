@@ -1,0 +1,52 @@
+hitcount: 101418
+misscount:107451
+hitcount: 132384
+misscount:109274
+hitcount: 163122
+misscount:111106
+hitcount: 194059
+misscount:112884
+hitcount: 224776
+misscount:114632
+hitcount: 255577
+misscount:116385
+hitcount: 286441
+misscount:118124
+hitcount: 317303
+misscount:119892
+hitcount: 348089
+misscount:121633
+hitcount: 379083
+misscount:123384
+hitcount: 410064
+misscount:125118
+hitcount: 440961
+misscount:126852
+hitcount: 471760
+misscount:128585
+hitcount: 502714
+misscount:130322
+hitcount: 534334
+misscount:132310
+hitcount: 565264
+misscount:134038
+hitcount: 596121
+misscount:135757
+hitcount: 626795
+misscount:137488
+hitcount: 657524
+misscount:139226
+hitcount: 688221
+misscount:140963
+hitcount: 718940
+misscount:142670
+hitcount: 749684
+misscount:144379
+hitcount: 780442
+misscount:146108
+hitcount: 811362
+misscount:147830
+hitcount: 842013
+misscount:149552
+hitcount: 872919
+misscount:151267
